@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">My Notes</string>
+    <string name="nameOfList">Name of List</string>
+    <string name="createList">Create</string>
+    <string name="enterNameOfList">Please enter name of new list</string>
+    <string name="task_name">Please enter your task you want to add</string>
+    <string name="add_task">Add</string>
+    <string name="enterNameOfNote">Please enter name of new note</string>
+</resources>
