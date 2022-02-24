@@ -6,4 +6,4 @@
    - add note's detail
    - run on both phone and tablet
    - edit note
-## DEMO CLIP:
+## DEMO CLIP: https://youtu.be/EeaGoVDnQf0
